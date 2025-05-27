@@ -1,0 +1,10 @@
+numpy
+matplotlib
+seaborn
+mpltern
+scikit-learn
+xgboost
+openpyxl
+shap
+pandas
+gradio
