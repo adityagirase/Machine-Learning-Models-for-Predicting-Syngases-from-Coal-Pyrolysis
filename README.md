@@ -4,7 +4,9 @@ Pyrolysis is a thermochemical conversion process used for the production of biof
 
 ## Project Overview
 
-This project employs a data-driven machine learning (ML) and interpretability approach to study the complex relationships between coal composition, reaction conditions, and product yield in the context of pyrolysis. Additionally, we aim to make the findings interpretable, as many ML models are often regarded as black boxes.
+This project introduces a novel approach by integrating Machine Learning models to ac
+curately predict the product distribution of coal pyrolysis, including syngas, char, and
+pyrolysis oil yields. Additionally, a userfriendly graphical interface has been designed to facilitate easy input of process parameters and enable rapid predictions, making the tool accessible to researchers and industry professionals.
 
 ## Key Findings
 
@@ -12,3 +14,4 @@ This project employs a data-driven machine learning (ML) and interpretability ap
 - The performance of XGBoost models improved substantially after hyperparameter optimization.
 
 
+![Steps (2)](https://github.com/user-attachments/assets/339b0598-ec7b-4664-8677-9c4ecaaf639d)
